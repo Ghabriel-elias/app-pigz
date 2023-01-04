@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "meuApp",
+    "slug": "meuApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "43b26273-5df7-413f-949e-c46cc6514b36"
+      }
+    }
+  }
+}
